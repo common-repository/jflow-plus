@@ -1,0 +1,6 @@
+/*  jFlow Plus Demo CSS 
+Description: Demonstation CSS for jFlow Plus
+Creator: Devin Walker
+Date: July 29, 2010
+*/
+#jFlowcontainer{position:relative;border-top:5px solid #999;border-bottom:5px solid #999;margin:0 auto}.slide span{background:url("contentBg.png") repeat top left transparent;position:absolute;bottom:20px;right:20px;padding:10px}.slide h3{font-family:Georgia,serif;color:#FFF;font-size:35px;font-style:italic;margin:0 0 10px 0}.slide p{font-family:Georgia,serif;color:#FFF;margin:0}.jFlowSlideContainer a{color:#F90;text-decoration:none;font-style:italic}.jFlowSlideContainer a:hover{text-decoration:none;border-bottom:1px dotted white}.jFlowSlideContainer a:focus{position:relative;top:1px}.jFlowNext div{background:url("arrows.png") no-repeat scroll 0 -35px transparent;height:130px;position:absolute;top:110px;right:-50px;width:50px;cursor:pointer}.jFlowPrev div{background:url("arrows.png") no-repeat scroll -84px -35px transparent;height:130px;position:absolute;top:110px;left:-50px;width:50px;cursor:pointer}.jFlowPrev div:hover{background-position:-84px -235px}.jFlowNext div:hover{background-position:0 -235px}
